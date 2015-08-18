@@ -11,5 +11,10 @@ Creating a new branch is quick AND simple.
 
 Creating a new branch is quick and simple.
 
+<<<<<<< HEAD
 this is the second time modify.
+=======
+this is the first time modify.
+>>>>>>> dev
+this is the third time modify.
 
