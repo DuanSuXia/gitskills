@@ -18,5 +18,5 @@ this is the first time modify.
 >>>>>>> dev
 this is the third time modify.
 
-this is the forth time modify.
+this is the forth time modified.
 
